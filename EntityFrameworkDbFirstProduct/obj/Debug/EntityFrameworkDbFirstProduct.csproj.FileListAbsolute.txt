@@ -1,0 +1,16 @@
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\bin\Debug\EntityFrameworkDbFirstProduct.exe.config
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\bin\Debug\EntityFrameworkDbFirstProduct.exe
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\bin\Debug\EntityFrameworkDbFirstProduct.pdb
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\bin\Debug\EntityFramework.dll
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\bin\Debug\EntityFramework.xml
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.FrmCategory.resources
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.Properties.Resources.resources
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.csproj.GenerateResource.cache
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.csproj.CopyComplete
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.exe
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.pdb
+C:\Users\Neslihan\source\repos\EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct\obj\Debug\EntityFrameworkDbFirstProduct.FrmProduct.resources
